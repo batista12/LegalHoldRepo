@@ -76,7 +76,7 @@
 		<dependency>
 		    <groupId>com.amazonaws</groupId>
 		    <artifactId>aws-java-sdk-secretsmanager</artifactId>
-		    <version>1.12.472</version>
+		    <version>1.12.745</version>
 		</dependency>
 		
 		<dependency>
